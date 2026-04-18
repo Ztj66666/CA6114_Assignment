@@ -1,0 +1,2 @@
+原模型：majicmixRealistic_v7.safetensors
+这个模型：Qwen-Rapid-AlO-NSFW-v19.safetensors
